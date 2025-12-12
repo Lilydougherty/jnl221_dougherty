@@ -11,10 +11,11 @@ img {
 }
 
 .footer p { /* This is how you add styles for only the p text within the footer. */
-	background-color: #cccccc;
+	background-color: #BFD7EA;
 	text-align: center;
 	font-size: 20px;
 	margin-bottom: 0;
+	font-family: 'Playfair', serif;
 }
 .header {
 	height: auto;
