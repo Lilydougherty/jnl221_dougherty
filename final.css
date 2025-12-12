@@ -17,6 +17,9 @@ img {
 	margin-bottom: 0;
 	font-family: 'Playfair', serif;
 }
+.footer {
+    background-color: #BFD7EA;
+} 
 .header {
 	height: auto;
 	font-weight: bold;
