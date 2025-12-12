@@ -9,7 +9,16 @@ img {
 	margin-right: 5%;
 	margin-left: 5%;
 }
+img {
+    float: right;
+    margin-right: 5%;
+    margin-left: 5%;
+    transition: transform 0.3s ease;
+}
 
+img:hover {
+    transform: scale(1.1);
+}
 .footer p { /* This is how you add styles for only the p text within the footer. */
 	background-color: #BFD7EA;
 	text-align: center;
