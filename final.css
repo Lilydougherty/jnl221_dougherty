@@ -42,6 +42,10 @@ h3 {
     margin: 0 auto;     
     padding: 20px;      
 }
+ul, li {
+    font-family: 'Playfair', serif;
+    font-size: 20px;
+}
 
 
 /*Don't worry about this section yet*/
